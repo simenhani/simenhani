@@ -15,7 +15,7 @@
 ***
 
 <div align="center">
-  <img height="200" src="images/pcb.png"  />
+  <img src="images/pcb.png" style="width: 100%; height: auto;"/>
 </div>
 
 
