@@ -1,6 +1,6 @@
 <h1>Hi! I'm Simen, a passionate tech nerd⚡</h1>
 
-🧑‍🎓Studying Electronics Engineering at University of Agder
+🧑‍🎓Studying Electronics Engineering at University of Agder \\
 📍Grimstad, Norway
 
 <p>
