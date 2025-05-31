@@ -1,7 +1,7 @@
 <h1>Hi! I'm Simen, a passionate tech nerd⚡</h1>
 
-🧑‍🎓Studying Electronics Engineering at University of Agder</li>
-📍Grimstad, Norway</li>
+🧑‍🎓Studying Electronics Engineering at University of Agder
+📍Grimstad, Norway
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/simenshanisch" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a> 
