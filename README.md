@@ -1,4 +1,4 @@
-<h1>Hi! I'm Simen, a passionate tech nerd⚡</h1>
+<h1>Simen Skretteberg Hanisch</h1>
 
 <p>
   🧑‍🎓Studying Electronics Engineering at University of Agder <br>
