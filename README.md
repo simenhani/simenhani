@@ -1,7 +1,7 @@
 <h1>Simen Skretteberg Hanisch</h1>
 
 <p>
-  🧑‍🎓Studying Electronics Engineering at University of Agder <br>
+  🧑‍🎓BSc in Electronics Engineering from University of Agder<br>
   📍Grimstad, Norway
   
 </p>
